@@ -1,7 +1,7 @@
 # origa.ai Backend Task
 ## Technologies used: Node.js, Exoress.js, MongoDb with Mongoose
 
-### APi Endpoints
+### API Endpoints
 - **POST**: `user/add-user`
   
   Add a new user
