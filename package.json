@@ -1,0 +1,19 @@
+{
+  "name": "origa_backend_task",
+  "version": "1.0.0",
+  "description": "Backend API dev task for Origa.ai FS Developer role",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshSat19/origa_ai_backend_task.git"
+  },
+  "author": "ashwinSathian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshSat19/origa_ai_backend_task/issues"
+  },
+  "homepage": "https://github.com/AshSat19/origa_ai_backend_task#readme"
+}
