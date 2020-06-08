@@ -1,5 +1,8 @@
 # origa.ai Backend Task
-## Technologies used: Node.js, Exoress.js, MongoDb with Mongoose
+
+Technologies used: Node.js, Exoress.js, MongoDb with Mongoose
+
+API Base URL: `https://aqueous-caverns-13006.herokuapp.com/api/`
 
 ### API Endpoints
 - **POST**: `user/add-user`
