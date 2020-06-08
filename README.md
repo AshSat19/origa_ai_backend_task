@@ -1,4 +1,4 @@
-# origa.ai Backend task
+# origa.ai Backend Task
 ## Technologies used: Node.js, Exoress.js, MongoDb with Mongoose
 
 ### APi Endpoints
